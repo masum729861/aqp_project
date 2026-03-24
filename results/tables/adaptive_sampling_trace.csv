@@ -1,0 +1,2 @@
+sample_fraction,sample_size,estimated_avg,ci_lower,ci_upper,estimated_relative_error,actual_relative_error,target_error_threshold,stop_condition_met
+0.05,500,379.55658,347.614124117211,411.499035882789,0.08415729713548635,0.09810704850092095,0.1,True
