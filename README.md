@@ -1,5 +1,5 @@
 
-📘 README.md (Your Project)
+📘 README.md
 Adaptive Sampling for Fast Approximate Query Processing in Large Databases
 📌 Overview
 
