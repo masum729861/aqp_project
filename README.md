@@ -69,22 +69,3 @@ High accuracy can be achieved with limited data
 Full dataset scanning is often unnecessary
 
 
-📂 Project Structure
-aqp_project/
-│
-├── dataset/
-│   └── sales.csv
-│
-├── src/
-│   ├── exact_query.py
-│   ├── uniform_sampling.py
-│   ├── stratified_sampling.py
-│   ├── adaptive_sampling.py
-│   ├── run_experiments.py
-│   └── generate_big_sales_dataset.py
-│
-├── results/
-│   ├── tables/
-│   └── figures/
-│
-└── README.md
