@@ -18,6 +18,7 @@ Adaptive Sampling (proposed approach)
 
 
 🚀 Key Features
+
 ✅ Adaptive sampling with dynamic stopping condition
 ✅ Confidence interval–based error estimation
 ✅ Comparison across multiple sampling strategies
